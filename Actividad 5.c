@@ -24,3 +24,6 @@ default:
 printf("Eso no es una vocal");
 break;
 }
+  fflush(stdin); 
+}while(c != 6);
+}
